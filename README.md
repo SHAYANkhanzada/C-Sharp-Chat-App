@@ -37,7 +37,7 @@ Here are some previews from the project documentation:
 ![Login Screen](screenshots/image1.png)
 
 ### Chat Interface
-![Chat Interface](screenshots/image2.png)
+![Chat Interface](screenshots/image6.png)
 
 ### File Transfer & Offline Messaging
 ![File Transfer](screenshots/image3.png)
