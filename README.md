@@ -34,7 +34,7 @@ The solution consists of two main projects:
 Here are some previews from the project documentation:
 
 ### Login & Registration
-![Login Screen](screenshots/image1.png)
+![Login Screen](screenshots/image3.png)
 
 ### Chat Interface
 ![Chat Interface](screenshots/image6.png)
