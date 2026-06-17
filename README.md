@@ -40,7 +40,7 @@ Here are some previews from the project documentation:
 ![Chat Interface](screenshots/image6.png)
 
 ### File Transfer & Offline Messaging
-![File Transfer](screenshots/image3.png)
+![File Transfer](screenshots/image11.png)
 
 *(Additional screenshots can be found in the `screenshots` folder extracted from the documentation).*
 
