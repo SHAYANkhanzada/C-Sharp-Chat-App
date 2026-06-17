@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4DAF75-EFF2-465C-A56F-5A22B82AF225}|FINAL_PROJECT_SERVER.csproj|c:\\users\\hp\\source\\repos\\final_project_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4DAF75-EFF2-465C-A56F-5A22B82AF225}|FINAL_PROJECT_SERVER.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4DAF75-EFF2-465C-A56F-5A22B82AF225}|FINAL_PROJECT_SERVER.csproj|C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\commandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4DAF75-EFF2-465C-A56F-5A22B82AF225}|FINAL_PROJECT_SERVER.csproj|solutionrelative:commandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\CommandType.cs",
+              "RelativeDocumentMoniker": "CommandType.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\CommandType.cs",
+              "RelativeToolTip": "CommandType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:43:09.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FINAL_PROJECT_SERVER\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAswP4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:35:56.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

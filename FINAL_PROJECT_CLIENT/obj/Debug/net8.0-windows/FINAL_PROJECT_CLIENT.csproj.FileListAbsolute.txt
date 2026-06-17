@@ -1,0 +1,120 @@
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.ChatForm.resources
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.LoginForm.resources
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfo.cs
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.exe
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.deps.json
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.runtimeconfig.json
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PR.84DDE3AB.Up2Date
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\refint\FINAL_PROJECT_CLIENT.dll
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.genruntimeconfig.cache
+C:\Users\HP\source\repos\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\ref\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.exe
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.deps.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.runtimeconfig.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.AssemblyReference.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.ChatForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.LoginForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfoInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfo.cs
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PR.84DDE3AB.Up2Date
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\refint\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.genruntimeconfig.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project zarrar\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\ref\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.exe
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.deps.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.runtimeconfig.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.AssemblyReference.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.ChatForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.LoginForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfoInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfo.cs
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PR.84DDE3AB.Up2Date
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\refint\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.genruntimeconfig.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\ref\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.exe
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.deps.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.runtimeconfig.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.AssemblyReference.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.ChatForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.LoginForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfoInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfo.cs
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PR.84DDE3AB.Up2Date
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\refint\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.genruntimeconfig.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\ref\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.exe
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.deps.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.runtimeconfig.json
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.AssemblyReference.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.ChatForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.LoginForm.resources
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfoInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.AssemblyInfo.cs
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PR.84DDE3AB.Up2Date
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\refint\FINAL_PROJECT_CLIENT.dll
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.pdb
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\FINAL_PROJECT_CLIENT.genruntimeconfig.cache
+C:\Users\Shayan\Desktop\SEM_8\NP\PROJECT\project\V2\CODE\FINAL_PROJECT_CLIENT\obj\Debug\net8.0-windows\ref\FINAL_PROJECT_CLIENT.dll
